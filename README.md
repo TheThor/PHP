@@ -9,6 +9,8 @@ This readme will be short but since it's my first piece of code in Github. The p
 
 This is a short example of how you can make a very little CMS where you translate your whole website while still keeping it very simple to manage it's text content. I didn't use anything like XML or JSON to keep things simple to anyone who wants to understand it. You should start from this and then find a way to improve it with external files.
 
+I also didn't use DB access, MVC, etc., etc. The intent is purely to show how this works to people who are starting in the development worl.
+
 2. Code
 
 In this example you can see how I made an array in lang.php. You can create the arrays you want and name them how you want them. For example, you can create a $menu where you will put the 'home' with value 'home' for en, 'casa' for pt, 'haus'(?) in german. You would do the same for contacts, and other items you have in the menu. That way you get:
