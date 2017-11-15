@@ -9,7 +9,7 @@ This readme will be short but since it's my first piece of code in Github. The p
 
 This is a short example of how you can make a very little CMS where you translate your whole website while still keeping it very simple to manage it's text content. I didn't use anything like XML or JSON to keep things simple to anyone who wants to understand it. You should start from this and then find a way to improve it with external files.
 
-I also didn't use DB access, MVC, etc., etc. The intent is purely to show how this works to people who are starting in the development worl.
+I also didn't use DB access, MVC, etc., etc. The intent is purely to show how this works to people who are starting in the development world.
 
 2. Code
 
